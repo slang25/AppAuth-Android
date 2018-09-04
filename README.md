@@ -18,7 +18,7 @@ tasks like performing an action with fresh tokens.
 The library follows the best practices set out in
 [OAuth 2.0 for Native Apps](https://tools.ietf.org/html/draft-ietf-oauth-native-apps),
 including using
-[Custom Tabs](http://developer.android.com/tools/support-library/features.html#custom-tabs)
+[Custom Tabs](https://developer.android.com/topic/libraries/support-library/packages#custom-tabs)
 for authorization requests. For this reason,
 `WebView` is explicitly *not* supported due to usability and security reasons.
 
